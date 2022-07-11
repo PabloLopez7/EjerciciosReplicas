@@ -1,0 +1,5 @@
+xst -intstyle ise -ifn "C:/Xilinx/Ejercicios_Replicas/ejemplogen.xst" -ofn "C:/Xilinx/Ejercicios_Replicas/ejemplogen.syr" 
+xst -intstyle ise -ifn "C:/Xilinx/Ejercicios_Replicas/ejemplogen.xst" -ofn "C:/Xilinx/Ejercicios_Replicas/ejemplogen.syr" 
+xst -intstyle ise -ifn "C:/Xilinx/Ejercicios_Replicas/ejemplogen.xst" -ofn "C:/Xilinx/Ejercicios_Replicas/ejemplogen.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 ejemplogen.ngc ejemplogen.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o ejemplogen_map.ncd ejemplogen.ngd ejemplogen.pcf 

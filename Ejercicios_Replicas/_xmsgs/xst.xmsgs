@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- IMPORTANT: This is an internal file that has been generated
+     by the Xilinx ISE software.  Any direct editing or
+     changes made to this file may result in unpredictable
+     behavior or data corruption.  It is strongly advised that
+     users do not edit the contents of this file. -->
+<messages>
+<msg type="error" file="HDLParsers" num="715" delta="new" >&quot;<arg fmt="%s" index="1">C:/Xilinx/Ejercicios_Replicas/contador2.vhd</arg>&quot; Line <arg fmt="%d" index="2">28</arg>. Attribute on units are only allowed on current unit.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3010" delta="new" >&quot;<arg fmt="%s" index="1">C:/Xilinx/Ejercicios_Replicas/contador2.vhd</arg>&quot; Line <arg fmt="%d" index="2">32</arg>. Entity <arg fmt="%s" index="3">contador2</arg> does not exist.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3312" delta="new" >&quot;<arg fmt="%s" index="1">C:/Xilinx/Ejercicios_Replicas/contador2.vhd</arg>&quot; Line <arg fmt="%d" index="2">35</arg>. Undefined symbol &apos;<arg fmt="%s" index="3">clk</arg>&apos;.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1209" delta="new" >&quot;<arg fmt="%s" index="1">C:/Xilinx/Ejercicios_Replicas/contador2.vhd</arg>&quot; Line <arg fmt="%d" index="2">35</arg>. <arg fmt="%s" index="3">clk</arg>: Undefined symbol (last report in this block)
+</msg>
+
+<msg type="error" file="HDLParsers" num="808" delta="new" >&quot;<arg fmt="%s" index="1">C:/Xilinx/Ejercicios_Replicas/contador2.vhd</arg>&quot; Line <arg fmt="%d" index="2">37</arg>. <arg fmt="%s" index="3">=</arg> can not have such operands in this context.
+</msg>
+
+<msg type="error" file="HDLParsers" num="3312" delta="new" >&quot;<arg fmt="%s" index="1">C:/Xilinx/Ejercicios_Replicas/contador2.vhd</arg>&quot; Line <arg fmt="%d" index="2">38</arg>. Undefined symbol &apos;<arg fmt="%s" index="3">Q</arg>&apos;.
+</msg>
+
+<msg type="error" file="HDLParsers" num="1209" delta="new" >&quot;<arg fmt="%s" index="1">C:/Xilinx/Ejercicios_Replicas/contador2.vhd</arg>&quot; Line <arg fmt="%d" index="2">38</arg>. <arg fmt="%s" index="3">Q</arg>: Undefined symbol (last report in this block)
+</msg>
+
+<msg type="warning" file="HDLParsers" num="1406" delta="new" >&quot;<arg fmt="%s" index="1">C:/Xilinx/Ejercicios_Replicas/contador2.vhd</arg>&quot; Line <arg fmt="%d" index="2">35</arg>. No sensitivity list and no wait in the process
+</msg>
+
+</messages>
+

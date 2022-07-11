@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "C:/Xilinx/Ejercicios_Replicas/ffsr.xst" -ofn "C:/Xilinx/Ejercicios_Replicas/ffsr.syr" 

@@ -1,0 +1,11 @@
+xst -intstyle ise -ifn "C:/Xilinx/Ejercicios_Replicas/cont.xst" -ofn "C:/Xilinx/Ejercicios_Replicas/cont.syr" 
+xst -intstyle ise -ifn "C:/Xilinx/Ejercicios_Replicas/cont.xst" -ofn "C:/Xilinx/Ejercicios_Replicas/cont.syr" 
+xst -intstyle ise -ifn "C:/Xilinx/Ejercicios_Replicas/cont.xst" -ofn "C:/Xilinx/Ejercicios_Replicas/cont.syr" 
+xst -intstyle ise -ifn "C:/Xilinx/Ejercicios_Replicas/cont.xst" -ofn "C:/Xilinx/Ejercicios_Replicas/cont.syr" 
+xst -intstyle ise -ifn "C:/Xilinx/Ejercicios_Replicas/cont.xst" -ofn "C:/Xilinx/Ejercicios_Replicas/cont.syr" 
+xst -intstyle ise -ifn "C:/Xilinx/Ejercicios_Replicas/cont.xst" -ofn "C:/Xilinx/Ejercicios_Replicas/cont.syr" 
+xst -intstyle ise -ifn "C:/Xilinx/Ejercicios_Replicas/cont.xst" -ofn "C:/Xilinx/Ejercicios_Replicas/cont.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 cont.ngc cont.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o cont_map.ncd cont.ngd cont.pcf 
+par -w -intstyle ise -ol high -t 1 cont_map.ncd cont.ncd cont.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml cont.twx cont.ncd -o cont.twr cont.pcf 

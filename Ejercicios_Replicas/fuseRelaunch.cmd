@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Xilinx/Ejercicios_Replicas/diagrama_isim_beh.exe" -prj "C:/Xilinx/Ejercicios_Replicas/diagrama_beh.prj" "work.diagrama" 

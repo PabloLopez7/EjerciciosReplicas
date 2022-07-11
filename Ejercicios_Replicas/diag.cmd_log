@@ -1,0 +1,7 @@
+xst -intstyle ise -ifn "C:/Xilinx/Ejercicios_Replicas/diag.xst" -ofn "C:/Xilinx/Ejercicios_Replicas/diag.syr" 
+xst -intstyle ise -ifn "C:/Xilinx/Ejercicios_Replicas/diag.xst" -ofn "C:/Xilinx/Ejercicios_Replicas/diag.syr" 
+xst -intstyle ise -ifn "C:/Xilinx/Ejercicios_Replicas/diag.xst" -ofn "C:/Xilinx/Ejercicios_Replicas/diag.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 diag.ngc diag.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o diag_map.ncd diag.ngd diag.pcf 
+par -w -intstyle ise -ol high -t 1 diag_map.ncd diag.ncd diag.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml diag.twx diag.ncd -o diag.twr diag.pcf 

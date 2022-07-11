@@ -1,0 +1,114 @@
+V3 64
+FL C:/Xilinx/Ejercicios_Replicas/cont.vhd 2022/07/07.18:22:22 P.20131013
+EN work/cont 1657236146 FL C:/Xilinx/Ejercicios_Replicas/cont.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/cont/arq_cont 1657236147 \
+      FL C:/Xilinx/Ejercicios_Replicas/cont.vhd EN work/cont 1657236146
+FL C:/Xilinx/Ejercicios_Replicas/cont1.vhd 2022/07/07.19:12:48 P.20131013
+EN work/cont1 1657239171 FL C:/Xilinx/Ejercicios_Replicas/cont1.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/cont1/arq_cont1 1657239172 \
+      FL C:/Xilinx/Ejercicios_Replicas/cont1.vhd EN work/cont1 1657239171
+FL C:/Xilinx/Ejercicios_Replicas/contador.vhd 2022/07/07.17:48:27 P.20131013
+AR work/contador/pins -1 FL C:/Xilinx/Ejercicios_Replicas/contador.vhd \
+      EN work/contador 1657234237
+EN work/contador 1657234237 \
+      FL C:/Xilinx/Ejercicios_Replicas/contador.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/std_logic_arith 1381692177 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/contador/cuenta 1657234238 \
+      FL C:/Xilinx/Ejercicios_Replicas/contador.vhd EN work/contador 1657234237
+FL C:/Xilinx/Ejercicios_Replicas/contador2.vhd 2022/07/07.17:42:31 P.20131013
+EN work/contador2 0 FL C:/Xilinx/Ejercicios_Replicas/contador2.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_SIGNED 1381692178
+AR work/contador2/pins 0 \
+      FL C:/Xilinx/Ejercicios_Replicas/contador2.vhd EN work/contador2 0
+FL C:/Xilinx/Ejercicios_Replicas/contador3.vhd 2022/07/07.18:11:06 P.20131013
+EN work/contador3 1657501794 FL C:/Xilinx/Ejercicios_Replicas/contador3.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/contador3/modulo 1657501795 \
+      FL C:/Xilinx/Ejercicios_Replicas/contador3.vhd EN work/contador3 1657501794
+FL C:/Xilinx/Ejercicios_Replicas/contador4.vhd 2022/07/07.18:36:57 P.20131013
+EN work/contador4 1657237020 FL C:/Xilinx/Ejercicios_Replicas/contador4.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/contador4/a_contador 1657237021 \
+      FL C:/Xilinx/Ejercicios_Replicas/contador4.vhd EN work/contador4 1657237020
+FL C:/Xilinx/Ejercicios_Replicas/contador5.vhd 2022/07/07.18:47:40 P.20131013
+EN work/contador5 1657237664 FL C:/Xilinx/Ejercicios_Replicas/contador5.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/contador5/modulo 1657237665 \
+      FL C:/Xilinx/Ejercicios_Replicas/contador5.vhd EN work/contador5 1657237664
+FL C:/Xilinx/Ejercicios_Replicas/diag.vhd 2022/07/07.23:15:54 P.20131013
+EN work/diag 1657253758 FL C:/Xilinx/Ejercicios_Replicas/diag.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/diag/arq_diag 1657253759 \
+      FL C:/Xilinx/Ejercicios_Replicas/diag.vhd EN work/diag 1657253758
+FL C:/Xilinx/Ejercicios_Replicas/diagrama.vhd 2022/07/07.22:37:02 P.20131013
+EN work/diagrama 1657251425 FL C:/Xilinx/Ejercicios_Replicas/diagrama.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/diagrama/arq_diagrama 1657251426 \
+      FL C:/Xilinx/Ejercicios_Replicas/diagrama.vhd EN work/diagrama 1657251425
+FL C:/Xilinx/Ejercicios_Replicas/ejemplogen.vhd 2022/07/07.22:04:39 P.20131013
+EN work/ejemplogen 1657249484 FL C:/Xilinx/Ejercicios_Replicas/ejemplogen.vhd \
+      PB ieee/std_logic_1164 1381692176 PB ieee/std_logic_arith 1381692177 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/ejemplogen/pins 1657249485 \
+      FL C:/Xilinx/Ejercicios_Replicas/ejemplogen.vhd EN work/ejemplogen 1657249484
+FL C:/Xilinx/Ejercicios_Replicas/ffd.vhd 2022/07/06.16:06:09 P.20131013
+EN work/ffd 1657141573 FL C:/Xilinx/Ejercicios_Replicas/ffd.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/ffd/arq_ffd 1657141574 \
+      FL C:/Xilinx/Ejercicios_Replicas/ffd.vhd EN work/ffd 1657141573
+FL C:/Xilinx/Ejercicios_Replicas/ffsr.vhd 2022/07/06.16:47:02 P.20131013
+EN work/ffsr 0 FL C:/Xilinx/Ejercicios_Replicas/ffsr.vhd PB ieee/std_logic_1164 1381692176
+AR work/ffsr/a_ffsr 0 \
+      FL C:/Xilinx/Ejercicios_Replicas/ffsr.vhd EN work/ffsr 0
+FL C:/Xilinx/Ejercicios_Replicas/FLIP.vhd 2022/07/06.16:21:33 P.20131013
+EN work/FLIP 1657142496 FL C:/Xilinx/Ejercicios_Replicas/FLIP.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/FLIP/Behavioral 1657142497 \
+      FL C:/Xilinx/Ejercicios_Replicas/FLIP.vhd EN work/FLIP 1657142496
+FL C:/Xilinx/Ejercicios_Replicas/FLIP1.vhd 2022/07/06.16:27:32 P.20131013
+EN work/FLIP1 0 FL C:/Xilinx/Ejercicios_Replicas/FLIP1.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/std_logic_arith 1381692177 PB ieee/STD_LOGIC_UNSIGNED 1381692179
+AR work/FLIP1/FLOP 0 \
+      FL C:/Xilinx/Ejercicios_Replicas/FLIP1.vhd EN work/FLIP1 0
+FL C:/Xilinx/Ejercicios_Replicas/latch.vhd 2022/07/06.15:53:35 P.20131013
+EN work/latch 1657140819 FL C:/Xilinx/Ejercicios_Replicas/latch.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/latch/ejemplo 1657140820 \
+      FL C:/Xilinx/Ejercicios_Replicas/latch.vhd EN work/latch 1657140819
+FL C:/Xilinx/Ejercicios_Replicas/latch1.vhd 2022/07/06.16:00:40 P.20131013
+EN work/latch1 0 FL C:/Xilinx/Ejercicios_Replicas/latch1.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/latch1/Ejemplo 0 \
+      FL C:/Xilinx/Ejercicios_Replicas/latch1.vhd EN work/latch1 0
+FL C:/Xilinx/Ejercicios_Replicas/reg.vhd 2022/07/06.17:01:18 P.20131013
+EN work/reg 1657144881 FL C:/Xilinx/Ejercicios_Replicas/reg.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/reg/arqreg 1657144882 \
+      FL C:/Xilinx/Ejercicios_Replicas/reg.vhd EN work/reg 1657144881
+FL C:/Xilinx/Ejercicios_Replicas/reg4.vhd 2022/07/06.17:09:15 P.20131013
+EN work/reg4 0 FL C:/Xilinx/Ejercicios_Replicas/reg4.vhd PB ieee/std_logic_1164 1381692176
+AR work/reg4/a_reg4 0 \
+      FL C:/Xilinx/Ejercicios_Replicas/reg4.vhd EN work/reg4 0
+FL C:/Xilinx/Ejercicios_Replicas/registro.vhd 2022/07/06.16:53:08 P.20131013
+EN work/registro 0 FL C:/Xilinx/Ejercicios_Replicas/registro.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/registro/serie 0 \
+      FL C:/Xilinx/Ejercicios_Replicas/registro.vhd EN work/registro 0
+FL C:/Xilinx/Ejercicios_Replicas/registro2.vhd 2022/07/06.16:55:29 P.20131013
+EN work/registro2 0 FL C:/Xilinx/Ejercicios_Replicas/registro2.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/registro2/serie2 0 \
+      FL C:/Xilinx/Ejercicios_Replicas/registro2.vhd EN work/registro2 0
+FL C:/Xilinx/memorias/RAM.vhd 2022/07/06.10:02:53 P.20131013
+EN work/RAM 0 FL C:/Xilinx/memorias/RAM.vhd PB ieee/std_logic_1164 1381692176 \
+      PB ieee/STD_LOGIC_UNSIGNED 1381692179 PB ieee/NUMERIC_STD 1381692181
+AR work/RAM/RAMBEHAVIOR 0 \
+      FL C:/Xilinx/memorias/RAM.vhd EN work/RAM 0

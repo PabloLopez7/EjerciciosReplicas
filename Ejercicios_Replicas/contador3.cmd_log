@@ -1,0 +1,18 @@
+xst -intstyle ise -ifn "C:/Xilinx/Ejercicios_Replicas/contador3.xst" -ofn "C:/Xilinx/Ejercicios_Replicas/contador3.syr" 
+xst -intstyle ise -ifn "C:/Xilinx/Ejercicios_Replicas/contador3.xst" -ofn "C:/Xilinx/Ejercicios_Replicas/contador3.syr" 
+xst -intstyle ise -ifn "C:/Xilinx/Ejercicios_Replicas/contador3.xst" -ofn "C:/Xilinx/Ejercicios_Replicas/contador3.syr" 
+xst -intstyle ise -ifn "C:/Xilinx/Ejercicios_Replicas/contador3.xst" -ofn "C:/Xilinx/Ejercicios_Replicas/contador3.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 contador3.ngc contador3.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o contador3_map.ncd contador3.ngd contador3.pcf 
+par -w -intstyle ise -ol high -t 1 contador3_map.ncd contador3.ncd contador3.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml contador3.twx contador3.ncd -o contador3.twr contador3.pcf 
+xst -intstyle ise -ifn "C:/Xilinx/Ejercicios_Replicas/contador3.xst" -ofn "C:/Xilinx/Ejercicios_Replicas/contador3.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 contador3.ngc contador3.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o contador3_map.ncd contador3.ngd contador3.pcf 
+par -w -intstyle ise -ol high -t 1 contador3_map.ncd contador3.ncd contador3.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml contador3.twx contador3.ncd -o contador3.twr contador3.pcf 
+xst -intstyle ise -ifn "C:/Xilinx/Ejercicios_Replicas/contador3.xst" -ofn "C:/Xilinx/Ejercicios_Replicas/contador3.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s50-pq208-5 contador3.ngc contador3.ngd  
+map -intstyle ise -p xc3s50-pq208-5 -cm area -ir off -pr off -c 100 -o contador3_map.ncd contador3.ngd contador3.pcf 
+par -w -intstyle ise -ol high -t 1 contador3_map.ncd contador3.ncd contador3.pcf 
+trce -intstyle ise -v 3 -s 5 -n 3 -fastpaths -xml contador3.twx contador3.ncd -o contador3.twr contador3.pcf 
